@@ -1,27 +1,49 @@
 # Stories-with-Data
 This repository contains all dashboards and reports I create using public datasets to unravel the hidden sides of the data story.
 
-## Tools used:
+## Tools and Skills used:
 - Microsoft Excel
-- Microsoft Power Bi
+- Microsoft Power Bi Desktop
+- DAX Programming
+- Data Analysis and Visulaizaion
 
-##**HR-Employee Attrition**
+## HR-Employee Attrition
 Power Bi report showcasing attrition rate of employees along with what factors may or may not be affecting it.
-**Dataset used:** HR Employee Analystics Dataset
+**Dataset used:** HR Employee Analystics Dataset (Kaggle)
 **Goal:** Identify the key drivers of employee attrition using interactive visuals.
 
 ### Key Insights
-Total Employees and Overall Attrition Rate highlighted on KPI cards 
-Departments with highest attrition identified to be 'Sales Representative' and ' Laboratory Technician'.
-Impact of age, job role, salary, and tenure shown through visuals
-Monthly income vs attrition trend included, showing employees with lower monthly income have evidently higher attririon rate.
-Attrition by factors like job satisfaction and Distance from Home.
+- Total Employees and Overall Attrition Rate highlighted on KPI cards 
+- Departments with highest attrition identified to be 'Sales Representative' and ' Laboratory Technician'.
+- Impact of age, job role, salary, and tenure shown through visuals
+- Monthly income vs attrition trend included, showing employees with lower monthly income have evidently higher attririon rate.
+- Attrition by factors like job satisfaction and Distance from Home.
 
 
  
-##**Video Games Sales**
-Power Bi report showcasing video games sales based on Genre, Major regions around the world
-Dataset: Video Game Sales dataset (Kaggle)
-Goal: Analyze global sales trends across platforms, genres, and publishers.
+## Video Games Sales Report
+Power Bi report showcasing major video games sales based on genre, demographics and publishers
+**Dataset used:** Video Game Sales dataset (Kaggle)
+**Goal:** Analyze global sales trends across platforms, genres, and video game publishers.
 
-##**Prevalence of Stroke in Healthcare**
+### Key Insights
+- Top 5 platforms with highest video games sales showcased along with an others section.
+- Genre-wise sales performance visualized in each region showing highest sales to be of action games in North America and Europe region, while RPG games for Japan region.
+- Global sales breakdown (NA, EU, JP, Other regions)
+- Top-performing publishers identified to be Nintendo
+- Trends in sales by game release year.
+
+  
+
+## Prevalence of Stroke in Healthcare
+Power Bi report showcasing the Prevalence of Stroke under different lifestyle, environamental and different health based scenarios.
+**Dataset:** Stroke Prevalence Dataset (Kaggle)
+**Goal:** Explore demographic and lifestyle factors associated with stroke occurrence.
+
+### Key Insights
+- Gender, age, and hypertension distribution visualized
+- Stroke vs non-stroke population comparison
+- Impact of lifestyle factors like smoking status, BMI, residential environment, and work type
+- Age group most at risk highlighted
+- Glucose level trends across stroke categories
+ 
