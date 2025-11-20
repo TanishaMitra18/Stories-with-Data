@@ -19,7 +19,7 @@ Power Bi report showcasing attrition rate of employees along with what factors m
 - Monthly income vs attrition trend included, showing employees with lower monthly income have evidently higher attririon rate.
 - Attrition by factors like job satisfaction and Distance from Home.
 
-
+![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/d75f185c812fa72fa44748140c4f8a2711c7c6b8/HR-Employee-Attrition%20Report.png)
  
 ## Video Games Sales Report
 Power Bi report showcasing major video games sales based on genre, demographics and publishers
