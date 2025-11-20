@@ -19,6 +19,8 @@ Power Bi report showcasing attrition rate of employees along with what factors m
 - Monthly income vs attrition trend included, showing employees with lower monthly income have evidently higher attririon rate.
 - Attrition by factors like job satisfaction and Distance from Home.
 
+**Report Image for reference-**
+
 ![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/d75f185c812fa72fa44748140c4f8a2711c7c6b8/HR-Employee-Attrition%20Report.png)
  
 ## Video Games Sales Report
@@ -33,7 +35,9 @@ Power Bi report showcasing major video games sales based on genre, demographics 
 - Top-performing publishers identified to be Nintendo
 - Trends in sales by game release year.
 
-  
+**Report Image for reference-**
+
+![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/1ed35c717f731cb933231c117ce4047670976b79/Video-Games-Sales%20Report.png)
 
 ## Prevalence of Stroke in Healthcare
 Power Bi report showcasing the Prevalence of Stroke under different lifestyle, environamental and different health based scenarios.
@@ -46,4 +50,15 @@ Power Bi report showcasing the Prevalence of Stroke under different lifestyle, e
 - Impact of lifestyle factors like smoking status, BMI, residential environment, and work type
 - Age group most at risk highlighted
 - Glucose level trends across stroke categories
- 
+
+**Report Image for reference-**
+
+![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/1ed35c717f731cb933231c117ce4047670976b79/Stroke%20Prevalence-Healthcare%20Report.png)
+
+**Images showcasing count of Healthy Individuals and Stroke Patients in the report respectively**
+
+![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/1ed35c717f731cb933231c117ce4047670976b79/Healthy-patient%20Report.png)
+
+![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/1ed35c717f731cb933231c117ce4047670976b79/Stroke-patient%20Report.png)
+
+
