@@ -8,10 +8,10 @@ This repository contains all visulaization reports I create using public dataset
 - Data Analysis and Visulaizaion
 
 ## HR-Employee Attrition
-Power Bi report showcasing attrition rate of employees along with what factors may or may not be affecting it.
-**Dataset used:** HR Employee Analystics Dataset (Kaggle)
-**Dataset link:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-**Goal:** Identify the key drivers of employee attrition using interactive visuals.
+- Power Bi report showcasing attrition rate of employees along with what factors may or may not be affecting it.
+- **Dataset used:** HR Employee Analystics Dataset (Kaggle)
+- **Dataset link:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+- **Goal:** Identify the key drivers of employee attrition using interactive visuals.
 
 ### Key Insights
 - Total Employees and Overall Attrition Rate highlighted on KPI cards 
@@ -25,10 +25,10 @@ Power Bi report showcasing attrition rate of employees along with what factors m
 ![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/d75f185c812fa72fa44748140c4f8a2711c7c6b8/HR-Employee-Attrition%20Report.png)
  
 ## Video Games Sales Report
-Power Bi report showcasing major video games sales based on genre, demographics and publishers
-**Dataset used:** Video Game Sales dataset (Kaggle)
-**Dataset link:** [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
-**Goal:** Analyze global sales trends across platforms, genres, and video game publishers.
+- Power Bi report showcasing major video games sales based on genre, demographics and publishers
+- **Dataset used:** Video Game Sales dataset (Kaggle)
+- **Dataset link:** [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+- **Goal:** Analyze global sales trends across platforms, genres, and video game publishers.
 
 ### Key Insights
 - Top 5 platforms with highest video games sales showcased along with an others section.
@@ -42,10 +42,10 @@ Power Bi report showcasing major video games sales based on genre, demographics 
 ![image-url.png](https://github.com/TanishaMitra18/Stories-with-Data/blob/1ed35c717f731cb933231c117ce4047670976b79/Video-Games-Sales%20Report.png)
 
 ## Prevalence of Stroke in Healthcare
-Power Bi report showcasing the Prevalence of Stroke under different lifestyle, environamental and different health based scenarios.
-**Dataset:** Stroke Prevalence Dataset (Kaggle)
-**Dataset link:** [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
-**Goal:** Explore demographic and lifestyle factors associated with stroke occurrence.
+- Power Bi report showcasing the Prevalence of Stroke under different lifestyle, environamental and different health based scenarios.
+- **Dataset:** Stroke Prevalence Dataset (Kaggle)
+- **Dataset link:** [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+- **Goal:** Explore demographic and lifestyle factors associated with stroke occurrence.
 
 ### Key Insights
 - Gender, age, and hypertension distribution visualized
