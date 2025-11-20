@@ -82,7 +82,13 @@ This repository contains the visualization report in both PBIX as well as PDF fo
      2. Video Games Sales Report
      3. HR Employee Attrition Report
    - Conatins visulaization in .pdf file format.
-   - Report link: [Portfolio PBi Reports (PDF)](https://github.com/TanishaMitra18/Stories-with-Data/blob/9e6c138704119358b32ac47bfe0cab73a50e6b47/Portfolio%20PBi%20Reports.pdf))  
+   - Report link: [Portfolio PBi Reports (PDF)](https://github.com/TanishaMitra18/Stories-with-Data/blob/9e6c138704119358b32ac47bfe0cab73a50e6b47/Portfolio%20PBi%20Reports.pdf)
 
+## Contact
+- Reach me via email: tanishamitra1810@gmail.com
+- Connect on LinkedIn: [Tanisha Mitra (Linkedin)](https://www.linkedin.com/in/tanisha-mitra-38a154254/)
+
+---
+⭐ **Thanks for checking out my dashboards! Feel free to explore and use them.**
 
    
