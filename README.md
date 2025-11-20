@@ -67,4 +67,22 @@ Power Bi report showcasing the Prevalence of Stroke under different lifestyle, e
 ## Resources
 This repository contains the visualization report in both PBIX as well as PDF format for reference.
 
-1. 
+1. **Portfolio Reports.pbix (PBIX format)**
+   - Contains three tabs for reports mentioned above namely
+     1. Stroke Report
+     2. Video Games Sales Report
+     3. HR Employee Attrition Report
+   - Conatins interactive visulaization in .pbix file format.
+   - To be opened using Power Bi Desktop Application.
+   - Report link:
+
+2. **Portfolio PBi Reports.pdf (PDF format)**
+   - Contains three pages for reports mentioned above namely
+     1. Stroke Report
+     2. Video Games Sales Report
+     3. HR Employee Attrition Report
+   - Conatins visulaization in .pdf file format.
+   - Report link: [Portfolio PBi Reports (PDF)](Portfolio PBi Reports.pdf)  
+
+
+   
