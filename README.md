@@ -74,7 +74,7 @@ This repository contains the visualization report in both PBIX as well as PDF fo
      3. HR Employee Attrition Report
    - Conatins interactive visulaization in .pbix file format.
    - To be opened using Power Bi Desktop Application.
-   - Report link:
+   - Report link: [Portfolio Reports (PBIX)](https://github.com/TanishaMitra18/Stories-with-Data/blob/d5967e0cc935e9e4e2548aa2deff94c293e797b7/Portfolio%20Reports.pbix)
 
 2. **Portfolio PBi Reports.pdf (PDF format)**
    - Contains three pages for reports mentioned above namely
