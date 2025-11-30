@@ -89,6 +89,6 @@ This repository contains the visualization report in both PBIX as well as PDF fo
 - Connect on LinkedIn: [Tanisha Mitra (Linkedin)](https://www.linkedin.com/in/tanisha-mitra-38a154254/)
 
 ---
-⭐ **Thanks for checking out my dashboards! Feel free to explore and use them.**
+⭐ **Thanks for checking out my Projects! Feel free to explore and use them.**
 
    
